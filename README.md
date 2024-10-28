@@ -6,8 +6,14 @@ it is a great plesure to connect with you
 
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-## :computer: I am an enthusiastic coding beginner who loves creating aesthetic and functional websites and designs.
 
-Other: :fire: Love learning about new languages, cultures, facts and travelling the world :sunrise:
+- an enthusiastic coding beginner
+- loves being creative
+- very open minded
+- all about aesthetics and functionality
+
+
+
+Other :fire::  languages, cultures, dancing and travelling the world :sunrise:
