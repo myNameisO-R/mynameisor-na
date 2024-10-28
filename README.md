@@ -3,7 +3,7 @@
 
 <h1>Welcome to my My personal repository :smiley: </h1> 
 
-![Me myself and I]([https://www.istockphoto.com/de/foto/hund-mit-bleistift-im-b%C3%BCro-gm667786852-121890449.](https://media.istockphoto.com/id/667786852/de/foto/hund-mit-bleistift-im-b%C3%BCro.jpg?s=1024x1024&w=is&k=20&c=3YzC7V86kEh1_VuOJ6XWoGZ_0UVK0hj72xEbQdmlVOc=jpg)
+![Me myself and I](https://media.istockphoto.com/id/667786852/de/foto/hund-mit-bleistift-im-b%C3%BCro.jpg?s=1024x1024&w=is&k=20&c=3YzC7V86kEh1_VuOJ6XWoGZ_0UVK0hj72xEbQdmlVOc=)
 
 
 ## :computer: I am an enthusiastic coding beginner who loves creating aesthetic and functional websites and designs.
