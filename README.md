@@ -2,7 +2,7 @@
 
 it is a great plesure to connect with you 
 
-<h1>Welcome to My personal repository :computer: :smiley: </h1> 
+<h1>Welcome to my personal repository :computer: :smiley: </h1> 
 
 
 
